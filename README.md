@@ -1,7 +1,6 @@
 # fast_app_base
 
-A new Flutter project.
-토스 앱 만들기 실습
+Todo app 만들기
 
 ## Getting Started
 
