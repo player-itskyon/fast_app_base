@@ -46,6 +46,8 @@ dependencies:
   shared_preferences: ^2.0.15
   isar: 3.1.0
   isar_flutter_libs: 3.1.0
+  isar_generator:
+  path_provider:
 
   #architecture
   event_bus: ^2.0.0
@@ -73,6 +75,10 @@ dependencies:
   freezed: ^2.3.4
   freezed_annotation: ^2.2.0
   json_annotation: ^4.8.0
+  font_awesome_flutter: ^10.7.0
+
+  #logger
+  logger:
 
 dev_dependencies:
   flutter_test:

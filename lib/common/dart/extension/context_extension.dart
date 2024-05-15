@@ -9,6 +9,7 @@ extension ContextExtension on BuildContext {
     return MediaQuery.of(this).size.width * widthSize;
   }
 
+
   double height(double heightSize) {
     return MediaQuery.of(this).size.height * heightSize;
   }
